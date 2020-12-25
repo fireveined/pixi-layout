@@ -1,4 +1,4 @@
-#Dynamic positioning and resizing made easy 
+# Dynamic positioning and resizing made easy 
 
 Ever have spent whole day on adjusting X and Y to only discover, that on some specific screen resolution it is still overlapping with something else? Never more!
 
@@ -72,7 +72,7 @@ makeLayout(someView);
 makeLayout(viewByName);
 ```
 
-###  X/y methods
+###  X/Y methods
 
 ```typescript
 makeLayout(screenArea)
@@ -83,7 +83,8 @@ makeLayout(screenArea)
 
  // same for y property
 ```
-Layout Box model:
+Layout Box model: 
+
 ![Layout Box](layoutBox.png)
 
 
