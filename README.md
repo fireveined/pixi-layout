@@ -1,5 +1,8 @@
 # Dynamic positioning and resizing made easy 
 
+Doc can be found here: 
+https://app.gitbook.com/@adde197/s/pixi-layout/
+
 Ever have spent whole day on adjusting X and Y to only discover, that on some specific screen resolution it is still overlapping with something else? Never more!
 
 Pixi-layout is here to make dynamic positioning and resizing easier. 
